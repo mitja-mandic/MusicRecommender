@@ -1,2 +1,2 @@
 # MusicRecommender
-Next song recommender
+Python based project recommending songs based on lyrics
